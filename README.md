@@ -3,7 +3,7 @@
 What is libasm? Please read en.subject.pdf
 
 ## RUN COMMANDS:
-``make`` compiles source file and creates library ``libasm.a``
+``make`` compiles source files and creates library ``libasm.a``
 
 ``make check`` launches libasm checker
 
